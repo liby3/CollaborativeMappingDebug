@@ -2,11 +2,10 @@
 
 Collaborative Mapping Debug, test Matching
 
-![Screenshot](/Connect.png)
 # Environment:
 
 Your computer should under the following environments:
--   ubuntu16.04 + ROS Kinetic
+-   ubuntu16.04
 
 -   pcl1.7
 
