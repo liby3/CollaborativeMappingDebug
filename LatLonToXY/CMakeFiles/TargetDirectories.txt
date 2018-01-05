@@ -1,0 +1,3 @@
+/home/slam/LatLonToXY/CMakeFiles/rebuild_cache.dir
+/home/slam/LatLonToXY/CMakeFiles/edit_cache.dir
+/home/slam/LatLonToXY/CMakeFiles/main.dir
